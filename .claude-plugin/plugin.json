@@ -1,0 +1,8 @@
+{
+  "name": "personal-ai-os",
+  "version": "1.0.0",
+  "description": "Turn Claude into your executive assistant with a guided setup that builds identity, voice, workspace, and memory — so every session starts with full context about who you are and how you work.",
+  "author": {
+    "name": "David Flynn"
+  }
+}
