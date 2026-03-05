@@ -84,3 +84,7 @@ David Flynn — [davidflynn.co](https://davidflynn.co)
 ## License
 
 MIT
+
+---
+
+*Inspired by [JJ Englert](https://x.com/JJEnglert/status/2028880724825149483)*
